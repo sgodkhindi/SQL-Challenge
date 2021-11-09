@@ -1,12 +1,3 @@
--- Drop Table Dept_Emp;
--- Drop Table Dept_Manager;
--- Drop Table Salaries;
--- DROP TABLE Department;
--- Drop Table Employees;
--- DROP TABLE Titles;
-
--- Create schemas
-
 -- Create tables
 CREATE TABLE IF NOT EXISTS Department
 (
